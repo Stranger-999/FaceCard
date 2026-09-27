@@ -1,0 +1,6 @@
+{
+  "name": "FaceCard",
+  "description": "Discover what makes your face visually distinctive. AI-powered facial analysis explaining your unique visual signature, face shape, and distinctive feature characteristics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
